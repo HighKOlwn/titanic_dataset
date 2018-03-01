@@ -1,2 +1,2 @@
-# titanic_dataset
-part of the udacity data analyst nanodegree program
+# Investigate a dataset - Titanic Data
+This project is part of the udacity data analyst nanodegree programm
